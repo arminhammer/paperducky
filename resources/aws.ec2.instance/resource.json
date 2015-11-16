@@ -1,9 +1,4 @@
 {
-  "Parameters": {
-    "ImageId": {
-      "Type" : "String"
-    }
-  },
   "Resource": {
     "Type" : "AWS::EC2::Instance",
     "Properties" : {
