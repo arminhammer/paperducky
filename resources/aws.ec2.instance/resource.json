@@ -1,7 +1,8 @@
 {
   "Type" : "AWS::EC2::Instance",
   "Properties" : {
-    "ImageId": { "ImageId": "String" }
+    "ImageId": { "ImageId": "String" },
+    "InstanceType" : {"InstanceType" : "String"}
   }
 }
 
