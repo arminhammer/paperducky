@@ -1,6 +1,7 @@
 {
   "Type" : "AWS::EC2::Instance",
   "Properties" : {
-    "ImageId": { "Ref" : "ImageId" }
+    "ImageId": { "ImageId": "String" }
   }
 }
+
